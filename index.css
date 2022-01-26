@@ -29,7 +29,7 @@ p a{
 #display{
     text-align: right;
     height: 50px;
-    background-color: rgb(217, 221, 224);
+    background-color: #eaeaea;
     line-height: 70px;
     padding: 16px 8px;
     border-radius: 20px 20px 0px 0px;
