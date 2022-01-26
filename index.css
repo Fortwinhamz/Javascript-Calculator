@@ -7,7 +7,7 @@
 h1{
     max-width: 300px;
     margin: 0vh auto 0 auto;
-    border: 3px solid rgb(31, 31, 83);
+    /* border:  solid rgb(31, 31, 83); */
     text-align: center;
 }
 
