@@ -1,18 +1,18 @@
 .container{
-    max-width: 400px;
+    max-width: 300px;
     margin: 3vh auto 0 auto;
     border-radius: 15px;
     box-shadow: 0px 0px 43px 17px rgb(214, 202, 202);
 }
 h1{
-    max-width: 400px;
+    max-width: 300px;
     margin: 0vh auto 0 auto;
     border: 3px solid rgb(31, 31, 83);
     text-align: center;
 }
 
 p{
-    max-width: 400px;
+    max-width: 300px;
     margin: 2vh auto 0 auto;
     border: 3px solid rgb(31, 31, 83);
     text-align: center;
