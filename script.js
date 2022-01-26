@@ -22,7 +22,7 @@ buttons.map( button => {
                 try{
                     display.innerText = eval(display.innerText);
                 } catch{
-                    display.innerText = 'Error!'
+                    display.innerText = 'Fortwin says it is an Error!'
                 }
                 break;
             default:
